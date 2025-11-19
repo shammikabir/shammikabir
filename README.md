@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shammikabir/shammikabir/78b162751e146e82be8d92aa0b479df647e28a2b/SHAMIMA%20KABIR%20(1).png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/shammikabir/shammikabir/637a4a028545ea0920be305619e5fb86f280ddb2/SHAMIMA%20KABIR%20(2).png" alt="Banner" />
 </p>
 
 
