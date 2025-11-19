@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shammikabir/shammikabir/78b162751e146e82be8d92aa0b479df647e28a2b/SHAMIMA%20KABIR%20(1).png" alt="Banner" />
+</p>
+
+
 # 💫 About Me:
 👋 Hi, I’m @shammikabir<br>🖥️ Currently working with HTML, CSS, Tailwind CSS, JavaScript, React.js, and MongoDB for full-stack development.<br>🚀 Passionate about building modern, responsive, and user-friendly web applications.<br>📚 I’m currently learning advanced JavaScript, TypeScript, React performance optimization, and modern UI/UX practices.<br>🎯 Next goals: Next.js, Redux Toolkit, Node.js (Advanced), API Security, Authentication, and Deployment.<br>💬 Ask me about Frontend Development (HTML, CSS, Tailwind, React) and MERN Stack basics.<br>📝 I share my learning journey on LinkedIn.<br>📫 Feel free to connect with me anytime.
 
